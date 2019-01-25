@@ -1,0 +1,33 @@
+Quartus II Archive log --	C:/Users/burak/Desktop/141044027/141044027.qarlog
+
+Archive:	C:/Users/burak/Desktop/141044027/141044027.qar
+Date:		Tue Nov 21 13:43:12 2017
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/burak/Desktop/141044027/141044027_restored/ALU.v
+C:/Users/burak/Desktop/141044027/141044027_restored/ALU_testbench.v
+C:/Users/burak/Desktop/141044027/141044027_restored/Alu_Cntrl.v
+C:/Users/burak/Desktop/141044027/141044027_restored/assignment_defaults.qdf
+C:/Users/burak/Desktop/141044027/141044027_restored/db/project02.cmp.hdb
+C:/Users/burak/Desktop/141044027/141044027_restored/db/project02.db_info
+C:/Users/burak/Desktop/141044027/141044027_restored/incremental_db/compiled_partitions/project02.db_info
+C:/Users/burak/Desktop/141044027/141044027_restored/mips_core.v
+C:/Users/burak/Desktop/141044027/141044027_restored/mips_core_testbench.v
+C:/Users/burak/Desktop/141044027/141044027_restored/mips_registers.v
+C:/Users/burak/Desktop/141044027/141044027_restored/mips_registers_testbench.v
+C:/Users/burak/Desktop/141044027/141044027_restored/newassign.v
+C:/Users/burak/Desktop/141044027/141044027_restored/project02.qpf
+C:/Users/burak/Desktop/141044027/141044027_restored/project02.qsf
+C:/Users/burak/Desktop/141044027/141044027_restored/project03.qsf
+C:/Users/burak/Desktop/141044027/141044027_restored/simulation/modelsim/registers.mem
+	======= Total: 16 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Nov 21 13:43:49 2017
+Source archive file:	C:/Users/burak/Desktop/141044027/141044027.qar
+Archive was extracted into	C:/Users/burak/Desktop/141044027/141044027_restored/
+		 - successfully.

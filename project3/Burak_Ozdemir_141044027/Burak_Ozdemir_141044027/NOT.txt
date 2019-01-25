@@ -1,0 +1,4 @@
+Proje Eksikleri !!
+1-Instrunction.mem dosyasından çözemediğim bi sebeple ilk 2 instructionın execute edilemiyor.
+2-Control sinyalleri tam olarak doğru üretilmiyor . O sıkıntıyı çözemedim .
+3-En son result log dosyalarını oluştururken güncel dataları yazmıyor

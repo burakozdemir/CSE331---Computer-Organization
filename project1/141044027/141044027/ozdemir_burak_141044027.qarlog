@@ -1,0 +1,43 @@
+Quartus II Archive log --	C:/Users/burak/Desktop/organizasyon/141044027/ozdemir_burak_141044027.qarlog
+
+Archive:	C:/Users/burak/Desktop/organizasyon/141044027/ozdemir_burak_141044027.qar
+Date:		Fri Oct 27 11:12:21 2017
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/5bit4-1mux.qpf
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/5bit4-1mux.qsf
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_4_1_mux.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_4_1_mux_testbench.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_4to1mux.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_4to1mux_testbench.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_5bit_adder.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_5bit_and.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_5bit_and_testbench.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_5bit_full_adder_testbench.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_5bit_or.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_5bit_or_testbench.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_5bit_xor.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/_5bit_xor_testbench.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/assignment_defaults.qdf
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/db/5bit4-1mux.cmp.hdb
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/db/5bit4-1mux.db_info
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/full_adder.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/full_adder_testbench.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/half_adder.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/half_adder_testbench.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/incremental_db/compiled_partitions/5bit4-1mux.db_info
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/likeALU.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/likeALU_demo.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/likeALU_testbench.v
+C:/Users/burak/Desktop/ozdemir_burak_141044027_restored/sw_led_tut.v
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Oct 27 11:14:57 2017
+Source archive file:	C:/Users/burak/Desktop/organizasyon/141044027/ozdemir_burak_141044027.qar
+Archive was extracted into	C:/Users/burak/Desktop/organizasyon/141044027/ozdemir_burak_141044027_restored/
+		 - successfully.

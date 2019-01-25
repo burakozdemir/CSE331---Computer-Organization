@@ -1,0 +1,36 @@
+Quartus II Archive log --	C:/Users/burak/Desktop/Burak_Ozdemir_141044027/Burak_Ozdemir_141044027.qarlog
+
+Archive:	C:/Users/burak/Desktop/Burak_Ozdemir_141044027/Burak_Ozdemir_141044027.qar
+Date:		Wed Jan 03 22:21:38 2018
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/ALU.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/ALU_Control.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/BranchAddresCalculator.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/Control.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/JumpAddresCalc.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/MUX2to1_32bit.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/PCadder.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/SignExtend.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/assignment_defaults.qdf
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/data.mem
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/db/project03.cmp.hdb
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/db/project03.db_info
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/incremental_db/compiled_partitions/project03.db_info
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/instruction.mem
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/instructionMean.txt
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/mips_core2.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/mips_data_mem.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/mips_instr_mem.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/mips_registers.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/mips_testbench.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/myassign.v
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/project03.qpf
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/project03.qsf
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/readme.txt
+C:/Users/burak/Desktop/organizasyon/project3/Template_sources-20171221/templateForProject03_restored/registers.mem
+	======= Total: 25 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
